@@ -57,7 +57,7 @@ pip install https://github.com/hourdays/horizon-releases/releases/download/v1.5.
 ## Links
 
 - **Author:** [Hugues Journeau](https://www.linkedin.com/in/hourdays/)
-- **App URL:** [horizon.databricksapps.com](https://horizon-416411475796958.gcp.databricksapps.com)
+- **App URL:** [horizon-4195054885805403.aws.databricksapps.com](https://horizon-4195054885805403.aws.databricksapps.com/) - You will need to request workspace access to use the app.
 
 ## License
 
